@@ -8,3 +8,9 @@
 7- Feedback                                                                                  
 8- Blood Banks                                                                             
 9- About                                                                                                
+
+(BusinessLayer)                                                                                             
+1- Functionality of app is done                                                                                
+2- 2 layers of 3-tier architecture done by removing all errors                                                                       
+3- Connections of forms                                                                                             
+4- Project flow                                                                                                     
